@@ -1,0 +1,47 @@
+# .gitignore – Dateien, die NICHT ins Repository gehören
+# Git ignoriert alles, was hier steht.
+
+# --- Geheimnisse: NIEMALS hochladen! ---
+.env
+*.env
+*.key
+*.pem
+zugangsdaten*
+passwoerter*
+
+# --- Betriebssystem ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editoren ---
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Node.js / JavaScript ---
+node_modules/
+dist/
+npm-debug.log*
+
+# --- Java / C# ---
+*.class
+target/
+bin/
+obj/
+
+# --- Datenbanken mit echten Daten ---
+*.sqlite-journal
+
+# --- Virtuelle Maschinen und große Dateien ---
+*.iso
+*.vdi
+*.vmdk
+*.ova
