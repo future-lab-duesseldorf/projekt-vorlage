@@ -22,7 +22,7 @@ Damit übt ihr die Regeln der IHK-Projektarbeit. **Wichtig:** Das ist ein Traini
 | [projektdokumentation.md](projektdokumentation.md) | Gliederung der Projektdokumentation (max. 15 Seiten) |
 | [praesentation.md](praesentation.md) | Probe-Prüfung: Präsentation und Fachgespräch |
 
-Ausführliche Anleitung: Selbststudium „IHK-Projekt üben“ in Notion (Link im Future-Lab-Kurs).
+Ausführliche Anleitung: [Selbststudium „IHK-Projekt üben“](https://cuboid-mulberry-747.notion.site/IHK-Projekt-ben-Selbststudium-405b5fb9a09381b1978cc05dfdc229cd) in Notion.
 | `diagramme/` | UML-, ER- oder Netzwerkdiagramme (z. B. mit draw.io als `.drawio.png`) |
 | `bilder/` | Screenshots für das README |
 
