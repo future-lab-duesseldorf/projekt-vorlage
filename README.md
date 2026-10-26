@@ -8,8 +8,8 @@
   1. Ersetzt alle Texte in [eckigen Klammern] durch eure eigenen.
   2. Löscht Abschnitte nicht – schreibt lieber kurz „noch offen“.
   3. Aktualisiert das README am Ende jedes Samstags.
-  4. Diese grauen Kommentare (zwischen <!-- und -->) sieht man auf
-     GitHub nicht. Ihr könnt sie stehen lassen oder löschen.
+  4. Diese Hinweise in grauen Kommentaren sieht man auf GitHub
+     nicht. Ihr könnt sie stehen lassen oder löschen.
   ===============================================================
 -->
 
@@ -46,12 +46,14 @@ Entstanden im [Future Lab Düsseldorf](https://future-lab.pocketlearn.online) �
 ## 2. Unsere Lösung
 
 <!-- Zeigt das Ergebnis. Ein Screenshot sagt mehr als zehn Sätze.
-     Bilder legt ihr in den Ordner docs/bilder/ und bindet sie so ein:
-     ![Beschreibung](docs/bilder/screenshot.png) -->
+     So geht's: Bild in den Ordner docs/bilder/ legen, z. B. als
+     screenshot.png, und dann die Zeile mit dem Bild unten aktivieren:
+     Ausrufezeichen, eckige Klammern mit Beschreibung, runde Klammern
+     mit dem Pfad docs/bilder/screenshot.png -->
 
 [Was kann das Ergebnis? Wie benutzt man es?]
 
-![Screenshot der Lösung](docs/bilder/screenshot.png)
+*[Screenshot folgt – siehe Hinweis im Quelltext dieses Abschnitts]*
 
 ### So startet man das Projekt
 
