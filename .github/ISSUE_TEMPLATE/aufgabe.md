@@ -1,6 +1,6 @@
 ---
 name: Aufgabe
-about: Eine Arbeitsaufgabe für das Projekt planen
+about: Eine Arbeitsaufgabe planen – höchstens 8 Stunden
 title: "Aufgabe: "
 labels: aufgabe
 assignees: ''
@@ -15,13 +15,26 @@ assignees: ''
 - [ ] 
 - [ ] 
 
+## Phase
+
+<!-- Rechts unter „Milestone“ die passende Phase auswählen. Hier zur Sicherheit ankreuzen. -->
+
+- [ ] 0 Antrag
+- [ ] 1 Analyse
+- [ ] 2 Entwurf
+- [ ] 3 Umsetzung
+- [ ] 4 Test und Abnahme
+- [ ] 5 Einführung
+- [ ] 6 Dokumentation
+- [ ] 7 Präsentation
+
+## Geschätzte Stunden
+
+<!-- Höchstens 8 Stunden. Größer? Dann in mehrere Aufgaben teilen. -->
+
+Geplant: __ h · Tatsächlich: __ h
+
 ## Stufe
 
 - [ ] Stufe 1 · Prüfungsniveau
 - [ ] Stufe 2 · Profi-Niveau
-
-## Geschätzter Aufwand
-
-- [ ] klein (unter 1 Stunde)
-- [ ] mittel (ein Samstag)
-- [ ] groß (mehrere Samstage – lieber in kleinere Aufgaben teilen)

@@ -49,7 +49,7 @@
 
 ### 2.4 Nutzen
 
-[Welchen Nutzen hat der Kunde? Spart es Zeit, Geld, Fehler? → Rechnung in wirtschaftlichkeit.md]
+[Welchen Nutzen hat der Kunde? Spart es Zeit, Geld, Fehler? → Rechnung in ../1-analyse/wirtschaftlichkeit.md]
 
 ## 3. Projektumfeld
 
@@ -80,7 +80,7 @@
 
 ## 5. Geplante Unterlagen
 
-- Projektdokumentation (siehe projektdokumentation.md)
+- Projektdokumentation (siehe ../6-dokumentation/projektdokumentation.md)
 - [z. B. Use-Case-Diagramm, ER-Modell, Testprotokoll, Benutzeranleitung]
 
 ## 6. Präsentationsmittel

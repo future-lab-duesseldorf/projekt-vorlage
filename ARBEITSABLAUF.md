@@ -52,7 +52,7 @@ git switch -c anforderungsliste
 
 ### Schritt 3 · Arbeiten
 In VS Code Dateien anlegen oder ändern und speichern (**Strg+S**).
-Code gehört in den Ordner `src/`, Dokumentation in `docs/`.
+Code gehört in den Ordner `src/`. Dokumentation gehört in den Ordner der passenden Phase, z. B. `docs/1-analyse/` – die Übersicht steht in [docs/README.md](docs/README.md).
 
 ### Schritt 4 · Commit – einen Zwischenstand speichern
 In GitHub Desktop seht ihr links alle geänderten Dateien.

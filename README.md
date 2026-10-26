@@ -10,6 +10,8 @@
   3. Aktualisiert das README am Ende jedes Samstags.
   4. Diese Hinweise in grauen Kommentaren sieht man auf GitHub
      nicht. Ihr könnt sie stehen lassen oder löschen.
+  5. Ganz am Anfang: PROJEKTSTART.md abarbeiten (Meilensteine, Board).
+     Die Ordnerstruktur nach Phasen erklärt docs/README.md.
   ===============================================================
 -->
 
@@ -81,14 +83,14 @@ Entstanden im [Future Lab Düsseldorf](https://future-lab.pocketlearn.online) �
 - **Modul / Lernfeld:** [z. B. Modul 3 – IT-Systeme auswählen]
 - **Angewendete Fachbegriffe:** [z. B. Nutzwertanalyse, TCO, Schnittstellen]
 - **Ergebnis auf Stufe 1:** [Was ist fertig?]
-- **IHK-Modus:** [Projektantrag](docs/projektantrag.md) · [Wirtschaftlichkeit](docs/wirtschaftlichkeit.md) · [Zeitnachweis und Soll-Ist](docs/projektplanung.md) · [Abnahmeprotokoll](docs/abnahmeprotokoll.md) · [Projektdokumentation](docs/projektdokumentation.md)
+- **IHK-Modus:** [Projektantrag](docs/0-antrag/projektantrag.md) · [Wirtschaftlichkeit](docs/1-analyse/wirtschaftlichkeit.md) · [Abnahmeprotokoll](docs/4-test-abnahme/abnahmeprotokoll.md) · [Zeitnachweis und Soll-Ist](docs/6-dokumentation/zeitnachweis.md) · [Projektdokumentation](docs/6-dokumentation/projektdokumentation.md) – alle Phasen: [docs/README.md](docs/README.md)
 
 ## 5. Stufe 2 · Profi-Niveau
 
 <!-- Was geht über die Prüfung hinaus? Hier zeigt ihr Handlungskompetenz für Arbeitgeber. -->
 
 - **Erweiterung:** [z. B. Gesamtkostenrechnung über drei Jahre, Kundenangebot, automatisierte Tests]
-- **Wichtige Entscheidungen und Begründungen:** siehe [docs/entscheidungen.md](docs/entscheidungen.md)
+- **Wichtige Entscheidungen und Begründungen:** siehe [docs/2-entwurf/entscheidungen.md](docs/2-entwurf/entscheidungen.md)
 - **Was wir dabei gelernt haben:** [2–3 Sätze]
 
 ## 6. Team und eigener Beitrag

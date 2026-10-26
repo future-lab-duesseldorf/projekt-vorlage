@@ -9,7 +9,7 @@
 
 ## Geprüfte Anforderungen
 
-| Nr. | Anforderung (aus anforderungen.md) | Erfüllt? | Bemerkung |
+| Nr. | Anforderung (aus 1-analyse/anforderungen.md) | Erfüllt? | Bemerkung |
 |---|---|---|---|
 | A1 | | ☐ ja ☐ nein ☐ teilweise | |
 

@@ -16,25 +16,25 @@
 2.1 Projektphasen · 2.2 Abweichungen vom Antrag · 2.3 Ressourcen · 2.4 Vorgehensmodell
 
 ## 3 Analyse
-3.1 Ist-Analyse · 3.2 Wirtschaftlichkeit (siehe wirtschaftlichkeit.md) · 3.3 Anwendungsfälle · 3.4 Qualitätsanforderungen · 3.5 Lastenheft (siehe anforderungen.md)
+3.1 Ist-Analyse · 3.2 Wirtschaftlichkeit (siehe 1-analyse/wirtschaftlichkeit.md) · 3.3 Anwendungsfälle · 3.4 Qualitätsanforderungen · 3.5 Lastenheft (siehe 1-analyse/anforderungen.md)
 
 ## 4 Entwurf
-4.1 Zielplattform · 4.2 Architektur · 4.3 Oberfläche · 4.4 Datenmodell · 4.5 Qualitätssicherung (Tests, Reviews) · 4.6 Pflichtenheft
+4.1 Zielplattform · 4.2 Architektur · 4.3 Oberfläche · 4.4 Datenmodell · 4.5 Qualitätssicherung (Tests, Reviews) · 4.6 Pflichtenheft (siehe 2-entwurf/pflichtenheft.md)
 
 ## 5 Implementierung
 5.1 Datenstrukturen · 5.2 Oberfläche · 5.3 Logik – jeweils kurz, mit Verweis auf Code im Anhang
 
 ## 6 Abnahme
-siehe abnahmeprotokoll.md und testprotokoll.md
+siehe 4-test-abnahme/
 
 ## 7 Einführung
-Inbetriebnahme, Übergabe, Schulung
+Inbetriebnahme, Übergabe, Schulung – siehe 5-einfuehrung/
 
 ## 8 Dokumentation
 Welche Dokumente gibt es für Anwender und Entwickler?
 
 ## 9 Fazit
-9.1 Soll-Ist-Vergleich (siehe projektplanung.md) · 9.2 Was haben wir gelernt? · 9.3 Ausblick
+9.1 Soll-Ist-Vergleich (siehe zeitnachweis.md) · 9.2 Was haben wir gelernt? · 9.3 Ausblick
 
 ## Anhang
 Diagramme, Screenshots, Code-Auszüge, Testfälle – nur das Nötigste.

@@ -15,7 +15,7 @@ Schließt #
 
 - [ ] Selbst ausprobiert
 - [ ] Funktioniert auf einem zweiten Rechner / bei einem Teammitglied
-- [ ] README bzw. docs/ angepasst, falls nötig
+- [ ] README bzw. passender Phasen-Ordner in docs/ angepasst, falls nötig
 
 ## KI-Einsatz
 
@@ -25,6 +25,11 @@ Schließt #
 - [ ] Mit KI-Unterstützung erstellt, von uns geprüft und verstanden
 
 Wofür KI genutzt wurde:
+
+## Phase
+
+- [ ] 0 Antrag  - [ ] 1 Analyse  - [ ] 2 Entwurf  - [ ] 3 Umsetzung
+- [ ] 4 Test/Abnahme  - [ ] 5 Einführung  - [ ] 6 Doku  - [ ] 7 Präsentation
 
 ## Stufe
 
