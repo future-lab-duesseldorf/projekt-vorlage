@@ -81,6 +81,7 @@ Entstanden im [Future Lab Düsseldorf](https://future-lab.pocketlearn.online) �
 - **Modul / Lernfeld:** [z. B. Modul 3 – IT-Systeme auswählen]
 - **Angewendete Fachbegriffe:** [z. B. Nutzwertanalyse, TCO, Schnittstellen]
 - **Ergebnis auf Stufe 1:** [Was ist fertig?]
+- **IHK-Modus:** [Projektantrag](docs/projektantrag.md) · [Wirtschaftlichkeit](docs/wirtschaftlichkeit.md) · [Zeitnachweis und Soll-Ist](docs/projektplanung.md) · [Abnahmeprotokoll](docs/abnahmeprotokoll.md) · [Projektdokumentation](docs/projektdokumentation.md)
 
 ## 5. Stufe 2 · Profi-Niveau
 
